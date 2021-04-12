@@ -1,0 +1,1 @@
+Sorry this looks so rough but as you could probably tell by my questions I was still struggling to figure 2.1 out. Things to not is that the key to press to get points while on a light is "e" and not "A". Also there is pre-text on the wall in room 3 that appears before you start the game so just stand underneath and the game will start and the text will change to "Score is _".
