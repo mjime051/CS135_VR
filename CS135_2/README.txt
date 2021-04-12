@@ -1,0 +1,1 @@
+Didnt add a way to move the camera nicely so you can just move it in the overview if you want to double check. Also I just realized that I forgot to move the camera back to 0,0,0 after doing some testing! That's my bad so you can change it back to 0,0,0 if you want to do the actual test.
